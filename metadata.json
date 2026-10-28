@@ -1,0 +1,6 @@
+{
+  "name": "Eneclim Climatização",
+  "description": "Instalação, manutenção preventiva e corretiva, higienização e soluções em climatização para residências e empresas. Entre em contato com a Eneclim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
